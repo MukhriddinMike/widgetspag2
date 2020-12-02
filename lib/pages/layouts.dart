@@ -48,6 +48,12 @@ class Layouts extends StatelessWidget {
                   ),
                   Container(
                     padding: EdgeInsets.all(9.0),
+                    color: Colors.green,
+                    width: 80,
+                    height: 80,
+                  ),
+                  Container(
+                    padding: EdgeInsets.all(9.0),
                     color: Colors.yellow,
                     width: 80,
                     height: 80,
